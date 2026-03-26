@@ -1,0 +1,18 @@
+# Home Loan Policy Document
+Effective Year: 2026
+
+1. Interest Rates
+- Floating Interest Rate: Starting at 8.35% p.a. for borrowers with a credit score above 750. For credit scores between 650-749, the rate is 8.85% p.a.
+- Fixed Interest Rate: 9.25% p.a. for a lock-in period of 3 years.
+
+2. Loan Amount and Tenure
+- Maximum Loan Amount: Up to 90% of the property value for loans under 30 Lakhs, and 80% for loans above 30 Lakhs.
+- Maximum Tenure: 30 years or until the age of 65 at loan maturity, whichever is earlier.
+
+3. Processing Fees
+- Standard Processing Fee: 0.5% of the loan amount or INR 10,000, whichever is higher, plus applicable GST.
+
+4. Penalties and Foreclosure
+- Late Payment Penalty: 2% per month on the overdue EMI amount.
+- Foreclosure Charges: Nil for floating rate loans. For fixed rate loans, it is 2% of the principal outstanding if closed before the lock-in period.
+- Part Prepayment: Minimum part prepayment amount should be equal to 2 EMIs. No charges on part prepayment for floating rate loans.

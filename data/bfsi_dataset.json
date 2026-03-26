@@ -1,0 +1,827 @@
+[
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Provide information about car loan interest rates.",
+        "input": "What are the current interest rates for a car loan?",
+        "output": "Our car loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their business loan eligibility.",
+        "input": "Am I eligible for a business loan of 1700000 INR?",
+        "output": "Eligibility for a business loan of 1700000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their business loan eligibility.",
+        "input": "Am I eligible for a business loan of 1700000 INR?",
+        "output": "Eligibility for a business loan of 1700000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Provide information about business loan interest rates.",
+        "input": "What are the current interest rates for a business loan?",
+        "output": "Our business loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their car loan eligibility.",
+        "input": "Am I eligible for a car loan of 700000 INR?",
+        "output": "Eligibility for a car loan of 700000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their business loan eligibility.",
+        "input": "Am I eligible for a business loan of 3900000 INR?",
+        "output": "Eligibility for a business loan of 3900000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Provide information about business loan interest rates.",
+        "input": "What are the current interest rates for a business loan?",
+        "output": "Our business loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their education loan eligibility.",
+        "input": "Am I eligible for a education loan of 200000 INR?",
+        "output": "Eligibility for a education loan of 200000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my car loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their home loan eligibility.",
+        "input": "Am I eligible for a home loan of 4000000 INR?",
+        "output": "Eligibility for a home loan of 4000000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my car loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Provide information about business loan interest rates.",
+        "input": "What are the current interest rates for a business loan?",
+        "output": "Our business loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Provide information about business loan interest rates.",
+        "input": "What are the current interest rates for a business loan?",
+        "output": "Our business loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Provide information about education loan interest rates.",
+        "input": "What are the current interest rates for a education loan?",
+        "output": "Our education loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Provide information about personal loan interest rates.",
+        "input": "What are the current interest rates for a personal loan?",
+        "output": "Our personal loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Provide information about business loan interest rates.",
+        "input": "What are the current interest rates for a business loan?",
+        "output": "Our business loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their personal loan eligibility.",
+        "input": "Am I eligible for a personal loan of 1700000 INR?",
+        "output": "Eligibility for a personal loan of 1700000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my education loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my car loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their business loan eligibility.",
+        "input": "Am I eligible for a business loan of 700000 INR?",
+        "output": "Eligibility for a business loan of 700000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their car loan eligibility.",
+        "input": "Am I eligible for a car loan of 2200000 INR?",
+        "output": "Eligibility for a car loan of 2200000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their personal loan eligibility.",
+        "input": "Am I eligible for a personal loan of 4900000 INR?",
+        "output": "Eligibility for a personal loan of 4900000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their business loan eligibility.",
+        "input": "Am I eligible for a business loan of 2700000 INR?",
+        "output": "Eligibility for a business loan of 2700000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Provide information about car loan interest rates.",
+        "input": "What are the current interest rates for a car loan?",
+        "output": "Our car loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their car loan eligibility.",
+        "input": "Am I eligible for a car loan of 4100000 INR?",
+        "output": "Eligibility for a car loan of 4100000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Provide information about car loan interest rates.",
+        "input": "What are the current interest rates for a car loan?",
+        "output": "Our car loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my car loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their education loan eligibility.",
+        "input": "Am I eligible for a education loan of 1300000 INR?",
+        "output": "Eligibility for a education loan of 1300000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their personal loan eligibility.",
+        "input": "Am I eligible for a personal loan of 1100000 INR?",
+        "output": "Eligibility for a personal loan of 1100000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my personal loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their education loan eligibility.",
+        "input": "Am I eligible for a education loan of 4100000 INR?",
+        "output": "Eligibility for a education loan of 4100000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their personal loan eligibility.",
+        "input": "Am I eligible for a personal loan of 200000 INR?",
+        "output": "Eligibility for a personal loan of 200000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Provide information about education loan interest rates.",
+        "input": "What are the current interest rates for a education loan?",
+        "output": "Our education loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their car loan eligibility.",
+        "input": "Am I eligible for a car loan of 300000 INR?",
+        "output": "Eligibility for a car loan of 300000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Provide information about education loan interest rates.",
+        "input": "What are the current interest rates for a education loan?",
+        "output": "Our education loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their business loan eligibility.",
+        "input": "Am I eligible for a business loan of 300000 INR?",
+        "output": "Eligibility for a business loan of 300000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Provide information about personal loan interest rates.",
+        "input": "What are the current interest rates for a personal loan?",
+        "output": "Our personal loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their personal loan eligibility.",
+        "input": "Am I eligible for a personal loan of 900000 INR?",
+        "output": "Eligibility for a personal loan of 900000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Provide information about personal loan interest rates.",
+        "input": "What are the current interest rates for a personal loan?",
+        "output": "Our personal loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my education loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their personal loan eligibility.",
+        "input": "Am I eligible for a personal loan of 400000 INR?",
+        "output": "Eligibility for a personal loan of 400000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my education loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my home loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Provide information about car loan interest rates.",
+        "input": "What are the current interest rates for a car loan?",
+        "output": "Our car loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Provide information about home loan interest rates.",
+        "input": "What are the current interest rates for a home loan?",
+        "output": "Our home loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their education loan eligibility.",
+        "input": "Am I eligible for a education loan of 900000 INR?",
+        "output": "Eligibility for a education loan of 900000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Provide information about car loan interest rates.",
+        "input": "What are the current interest rates for a car loan?",
+        "output": "Our car loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their car loan eligibility.",
+        "input": "Am I eligible for a car loan of 1000000 INR?",
+        "output": "Eligibility for a car loan of 1000000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Provide information about home loan interest rates.",
+        "input": "What are the current interest rates for a home loan?",
+        "output": "Our home loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Provide information about car loan interest rates.",
+        "input": "What are the current interest rates for a car loan?",
+        "output": "Our car loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their personal loan eligibility.",
+        "input": "Am I eligible for a personal loan of 1700000 INR?",
+        "output": "Eligibility for a personal loan of 1700000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my car loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Provide information about car loan interest rates.",
+        "input": "What are the current interest rates for a car loan?",
+        "output": "Our car loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my education loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their car loan eligibility.",
+        "input": "Am I eligible for a car loan of 2600000 INR?",
+        "output": "Eligibility for a car loan of 2600000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my home loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their car loan eligibility.",
+        "input": "Am I eligible for a car loan of 4200000 INR?",
+        "output": "Eligibility for a car loan of 4200000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my education loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their car loan eligibility.",
+        "input": "Am I eligible for a car loan of 400000 INR?",
+        "output": "Eligibility for a car loan of 400000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their education loan eligibility.",
+        "input": "Am I eligible for a education loan of 3800000 INR?",
+        "output": "Eligibility for a education loan of 3800000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Provide information about personal loan interest rates.",
+        "input": "What are the current interest rates for a personal loan?",
+        "output": "Our personal loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their car loan eligibility.",
+        "input": "Am I eligible for a car loan of 2100000 INR?",
+        "output": "Eligibility for a car loan of 2100000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Answer the customer's query about EMI.",
+        "input": "How can I change my EMI debit date?",
+        "output": "You can change your EMI mandate date by logging into the net banking portal under 'Loans' -> 'Update Mandate', or by visiting your nearest branch. Please note that date changes take effect from the next billing cycle."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my car loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their car loan eligibility.",
+        "input": "Am I eligible for a car loan of 3800000 INR?",
+        "output": "Eligibility for a car loan of 3800000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their car loan eligibility.",
+        "input": "Am I eligible for a car loan of 100000 INR?",
+        "output": "Eligibility for a car loan of 100000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Respond to the EMI bounce query.",
+        "input": "My EMI bounced this month. What are the charges?",
+        "output": "If an EMI bounces due to insufficient funds, a standard bounce charge of INR 500 plus applicable taxes is levied. We recommend maintaining sufficient balance 24 hours prior to the EMI date. Please make the payment manually via the app immediately to avoid late payment interest."
+    },
+    {
+        "instruction": "Provide information about education loan interest rates.",
+        "input": "What are the current interest rates for a education loan?",
+        "output": "Our education loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Provide information about personal loan interest rates.",
+        "input": "What are the current interest rates for a personal loan?",
+        "output": "Our personal loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their personal loan eligibility.",
+        "input": "Am I eligible for a personal loan of 2900000 INR?",
+        "output": "Eligibility for a personal loan of 2900000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Provide information about car loan interest rates.",
+        "input": "What are the current interest rates for a car loan?",
+        "output": "Our car loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their home loan eligibility.",
+        "input": "Am I eligible for a home loan of 1500000 INR?",
+        "output": "Eligibility for a home loan of 1500000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their home loan eligibility.",
+        "input": "Am I eligible for a home loan of 4900000 INR?",
+        "output": "Eligibility for a home loan of 4900000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their home loan eligibility.",
+        "input": "Am I eligible for a home loan of 700000 INR?",
+        "output": "Eligibility for a home loan of 700000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Provide information about business loan interest rates.",
+        "input": "What are the current interest rates for a business loan?",
+        "output": "Our business loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Provide information about car loan interest rates.",
+        "input": "What are the current interest rates for a car loan?",
+        "output": "Our car loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Provide information about business loan interest rates.",
+        "input": "What are the current interest rates for a business loan?",
+        "output": "Our business loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Provide information about personal loan interest rates.",
+        "input": "What are the current interest rates for a personal loan?",
+        "output": "Our personal loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Provide information about car loan interest rates.",
+        "input": "What are the current interest rates for a car loan?",
+        "output": "Our car loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Provide information about car loan interest rates.",
+        "input": "What are the current interest rates for a car loan?",
+        "output": "Our car loan interest rates start from 8.5% p.a., subject to your credit profile, loan amount, and tenure. For exact customized rates, please visit our website or speak to a relationship manager."
+    },
+    {
+        "instruction": "Assist with a transaction query.",
+        "input": "Money was deducted from my account but the transaction failed.",
+        "output": "We understand your concern. Failed transactions where money is debited are usually automatically reversed to your account within 3 to 5 business days. If it has been longer, please raise a dispute via the mobile app."
+    },
+    {
+        "instruction": "Provide the application status for the loan.",
+        "input": "What is the status of my personal loan application?",
+        "output": "To check the exact status of your application, please provide your 10-digit application reference number. Standard processing times are 3-5 business days."
+    },
+    {
+        "instruction": "Answer the customer's query regarding their home loan eligibility.",
+        "input": "Am I eligible for a home loan of 800000 INR?",
+        "output": "Eligibility for a home loan of 800000 INR depends on your credit score, current income, and existing liabilities. Please provide your net monthly salary and employment details so we can assist you better."
+    },
+    {
+        "instruction": "Help the customer with account support.",
+        "input": "How do I update my registered mobile number and email ID?",
+        "output": "To update your mobile number or email, you can use an ATM with your debit card and PIN, or log into Internet Banking using your existing credentials. For security reasons, you may also need to complete an OTP verification."
+    }
+]

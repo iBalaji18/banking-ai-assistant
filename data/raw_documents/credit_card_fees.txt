@@ -1,0 +1,22 @@
+# Credit Card Schedule of Charges
+Effective Year: 2026
+Card Type: Premium Rewards Card
+
+1. Joining and Annual Fees
+- Joining Fee: INR 1,499 + GST.
+- Annual Fee: INR 1,499 + GST from the second year onwards. Annual fee is waived if total spends in the previous year exceed INR 2,50,000.
+
+2. Finance Charges
+- Interest on Revolving Credit: 3.49% per month (41.88% per annum) on the outstanding amount.
+- Minimum Amount Due (MAD): 5% of the total outstanding amount or INR 200, whichever is higher.
+
+3. Penalties
+- Late Payment Charges: 
+  - Outstanding < 500: Nil
+  - Outstanding 501-5000: INR 400
+  - Outstanding 5001-10000: INR 750
+  - Outstanding > 10000: INR 1000
+- Cash Advance Fee: 2.5% of the withdrawn amount, subject to a minimum of INR 500.
+
+4. Forex Markup
+- International Transaction Markup: 2% on the transaction value.
