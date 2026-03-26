@@ -108,3 +108,4 @@ Open `http://127.0.0.1:7860` in your browser.
 - **Why Qwen2.5-1.5B over GPT?** Cost, privacy, and local deployment. A small model grounded with RAG context outperforms a large model answering freely for domain-specific tasks.
 - **Why ChromaDB?** Persistent storage across restarts, simple Python API, and no external infrastructure needed for a local deployment.
 - **Threshold of 0.85** — chosen to balance precision (avoid wrong matches) with recall (catch paraphrased versions of known questions).
+
